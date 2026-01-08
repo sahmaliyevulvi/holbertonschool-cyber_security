@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo nmao -sn -PM $1
+sudo nmap -sn -PM $1
