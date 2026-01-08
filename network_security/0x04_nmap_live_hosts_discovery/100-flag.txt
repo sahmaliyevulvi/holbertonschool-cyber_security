@@ -1,1 +1,1 @@
-openport
+sudo nmap -sU -sV -p200-300 192.168.88.2
